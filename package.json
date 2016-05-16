@@ -1,0 +1,15 @@
+{
+  "name": "transfers-server",
+  "description": "Linked Connections transfers server",
+  "version": "0.0.1",
+  "author": "Sander Ballieu <sander.ballieu@ugent.be>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "commander": "^2.8.1",
+    "jsonld": "^0.4.x",
+    "path": "^0.12.7",
+    "csv-parse": "^1.1.0",
+    "access-log": "^0.3.9"
+  }
+}
