@@ -1,6 +1,6 @@
 # transfers-server
 
-Transfers server for Linked Connection Client.js (see https://github.com/linkedconnections/client.js).
+A JSONLD server that returns transfer times from the GTFS transfers.txt
 
 ## Install and use it
 
@@ -11,5 +11,5 @@ npm install
 
 Run it
 ```bash
-node ./bin/server.js -p [portnumber] [path to transfers.txt]
+node ./bin/server.js -p [portnumber] [path to GTFS transfers.txt]
 ```
